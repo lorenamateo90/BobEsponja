@@ -1,12 +1,12 @@
-## BOB ESPONJA 🧽
+## SPONGEBOB 🧽
 
-Dibujo de Bob Esponja hecho con css.
+SpongeBob cartoon made with css.
 
-## Tecnologías utilizadas en este proyecto
+## Technologies used in this project
 
 * HTML5
 * CSS3
 
 ## Github Pages
 
-[Visita la página aquí](https://lorenamateo90.github.io/BobEsponja/)
+[Visit the page here](https://lorenamateo90.github.io/BobEsponja/)
